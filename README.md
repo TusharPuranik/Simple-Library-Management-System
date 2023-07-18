@@ -15,8 +15,8 @@ This repository contains a simple command-line library management system impleme
 - Save the code in a file named "LibrarySystem.java" in any folder.
 - Open the terminal in the folder where the above file is saved.
 - Type in the following command:
-  "javac LibrarySystem.java"
-  This will compile the program.
+  "javac LibrarySystem.java".
+- This will compile the program.
 - Then type the following command:
   "java LibrarySystem". 
-  This will run the code in the terminal.
+- This will run the code in the terminal.
